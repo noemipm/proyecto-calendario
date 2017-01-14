@@ -1,0 +1,179 @@
+#tabla {
+  list-style: none;
+}
+
+.Rectangle {
+  display: flex;
+  width: 514px;
+  border-radius: 6px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 23px 0 #e4e6e9;
+}
+
+.RectangleBlue {
+  display: flex;
+  text-align: center;
+  width: 514px;
+  height: 101.6px;
+  border-radius: 6px;
+  background-color: #60cdff;
+  box-shadow: 0 2px 23px 0 #e4e6e9;
+}
+
+.day {
+  margin: 30px;
+  width: 60px;
+  font-family: 'Lato', sans-serif;
+  font-size: 48px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1.9px;
+  text-align: center;
+  color: #8c96ab;
+}
+
+.day1 {
+  color: white;
+  
+}
+
+.month1 {
+  width: 115px;
+  height: 18px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.weekday1 {
+  width: 83px;
+  height: 18px;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.6px;
+  color: #ffffff;
+}
+
+.day1 {
+  margin: 30px;
+  width: 60px;
+  font-family: 'Lato', sans-serif;
+  font-size: 48px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1.9px;
+  text-align: center;
+  color: #ffffff;
+
+}
+
+
+.monthDayYear {
+  flex-grow: 1;
+  margin-top: 20px;
+}
+
+.month {
+  width: 115px;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: #6b7897;
+}
+
+.weekday {
+  width: 83px;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.6px;
+  color: #8c96ab;
+}
+
+.number {
+  margin-right: 30px;
+  width: 30px;
+  height: 30px;
+  font-family: 'Lato', sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 100px;
+  background-color: #ff6260;
+}
+
+
+#error {
+
+  width: 316px;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.7px;
+  text-align: center;
+  color: #ff6260;
+}
+
+#change {
+  width: 250px;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: 0.7px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#your_error {
+  display: flex;
+  height: 77px;
+  width: 514px;
+  margin: 40px;
+  border-radius: 6px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 23px 0 #e4e6e9;
+}
+
+#your_change {
+  display: flex;
+  height: 77px;
+  margin: 40px;
+  width: 514px;
+  border-radius: 6px;
+  background-color: #3bde86;
+  box-shadow: 0 2px 23px 0 #e4e6e9;
+}
+
+img {
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+
